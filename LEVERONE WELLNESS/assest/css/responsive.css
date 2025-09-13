@@ -1,0 +1,63 @@
+/*Responsive CSS Start*/
+
+/*1440*/
+@media only screen and (max-width:1439px){
+    .center-wraper{
+        width: 96%;
+    }
+}
+
+/*1366*/
+@media only screen and (max-width:1365px){
+ 
+}
+/*1320*/
+@media only screen and (max-width:1319px){
+   
+}
+/*1280*/
+@media only screen and (max-width:1279px){
+  
+}
+/*1200*/
+@media only screen and (max-width:1199px){
+  
+}
+/*1024*/
+@media only screen and (max-width:1023px){
+  
+}
+/*980*/
+@media only screen and (max-width:979px){
+  
+}
+/*768*/
+@media only screen and (max-width:767px){
+  
+}
+/*650*/
+@media only screen and (max-width:649px){
+  
+}
+/*568*/
+@media only screen and (max-width:567px){
+  
+}
+/*480*/
+@media only screen and (max-width:479px){
+  
+}
+/*414*/
+@media only screen and (max-width:413px){
+  
+}
+/*390*/
+@media only screen and (max-width:389px){
+  
+}
+/*375*/
+@media only screen and (max-width:374px){
+  
+}
+/*320*/
+/*Responsive CSS End*/
